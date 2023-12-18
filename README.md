@@ -24,9 +24,11 @@
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=ffffff"/></a>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=ffffff"/></a>
-
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=ffffff"/></a>   
+**Work hard for Algorithm Problem Solving!**
+<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kangjunbeom)](https://solved.ac/kangjunbeom)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kangjunbeom&theme=warm)
+-->
 ### 📭 **Contact**   
 <a href="mailto:sorabol623@gmail.com"><img src="https://img.shields.io/badge/sorabol623@gmail.com-ffffff?style=flat&logo=gmail&logoColor=ea4335"/></a>

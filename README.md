@@ -27,4 +27,4 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=ffffff"/></a>
 
 ### 📭 **Contact**   
-<a href="mail.google.com" target="_blank"><img src="https://img.shields.io/badge/sorabol623@gmail.com-ffffff?style=flat&logo=gmail&logoColor=ea4335"/></a>
+<a href="mailto:sorabol623@gmail.com"><img src="https://img.shields.io/badge/sorabol623@gmail.com-ffffff?style=flat&logo=gmail&logoColor=ea4335"/></a>

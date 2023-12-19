@@ -4,6 +4,7 @@
 ### **🏫KONKUK University (Seoul/Korea)**
 - **🎓BS in Computer Science and Engineering** *(Mar 2017 - Feb 2024(Expected))*   
     - 💻 **SW scholarship student** *(2023 1st, 2nd semester)*   
+            - *tutoring C programming/Computer Circuit class*
     - **Undergraduate reserach student** *(2023 2nd semester)*
     - **Graudation Proejct** :    
     *Researching Optimal Environment for Image Processing Using OpenCL*

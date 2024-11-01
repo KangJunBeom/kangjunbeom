@@ -10,6 +10,7 @@
     *Researching Optimal Environment for Image Processing Using OpenCL*
 - **⚡ MS in Computer Science and Engineering** *(Aug 2023 - Present)*   
     - High Performance Parallel Embedded Computing Lab(HP2E)
+    - Parallel Programming / Computer Circuit / Computer Architecture TA
 
 ### 💪 **Skills**
 **Language**   

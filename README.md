@@ -4,15 +4,13 @@
 ### **🏫KONKUK University (Seoul/Korea)**
 - **🎓BS in Computer Science and Engineering** *(Mar 2017 - Feb 2024)*   
     - 💻 **SW scholarship student** *(2023 1st, 2nd semester)*   
-            - *tutoring C programming/Computer Circuit class*
+            - *tutoring C programming / Computer Circuit class*
     - **Undergraduate reserach student** *(2023 2nd semester)*
-    - **Graudation Proejct** :    
-    *Researching Optimal Environment for Image Processing Using OpenCL*
+    - **Graudation Proejct** : *Researching Optimal Environment for Image Processing Using OpenCL*
 - **🎓MS in Computer Science and Engineering** *(Aug 2023 - Feb 2026)*   
     - *High Performance Parallel Embedded Computing Lab(HP2E)*
     - *Parallel Programming / Computer Circuit / Computer Architecture TA*
-    - **Master's Thesis** :
-    *Implementation of a Cholesky Decomposition Algorithm Utilizing Shared Memory on CUDA-Based GPGPUs*
+    - **Master's Thesis** : *Implementation of a Cholesky Decomposition Algorithm Utilizing Shared Memory on CUDA-Based GPGPUs*
 
 ### 💪 **Skills**
 **Language**   

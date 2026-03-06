@@ -5,7 +5,7 @@
 - **🎓BS in Computer Science and Engineering** *(Mar 2017 - Feb 2024)*   
     - 💻 **SW scholarship student** *(2023 1st, 2nd semester)*   
             - *tutoring C programming / Computer Circuit class*
-    - **Undergraduate reserach student** *(2023 2nd semester)*
+    - **Undergraduate research student** *(2023 2nd semester)*
     - **Graudation Proejct** :<br>
       *Researching Optimal Environment for Image Processing Using OpenCL*
 - **🎓MS in Computer Science and Engineering** *(Aug 2023 - Feb 2026)*   
